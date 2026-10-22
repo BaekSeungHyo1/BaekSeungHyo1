@@ -1,6 +1,6 @@
 # 백승효 | AI를 서비스로 연결하는 백엔드 개발자
 
-<img src="assets/img/profile.jpg" alt="SeungHyo Baek" width="180" style="border-radius: 50%; margin-bottom: 10px;" />
+<img src="profile.jpg" alt="백승효 프로필 사진" width="160" />
 
 **AI의 속도는 활용하되, 판단과 검증은 직접 합니다.**
 AI 모델과 외부 API의 결과를 그대로 화면에 내보내지 않고, 검증과 예외 처리를 거쳐 안전하게 서비스로 연결하는 백엔드를 만듭니다.
